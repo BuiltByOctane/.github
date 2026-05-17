@@ -10,12 +10,6 @@
   <a href="https://instagram.com/builtbyoctane">Instagram</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/products-4-blue?style=flat-square" alt="Products" />
-  <img src="https://img.shields.io/badge/team-small%20%26%20focused-green?style=flat-square" alt="Team" />
-  <img src="https://img.shields.io/badge/open%20source-where%20trust%20matters-brightgreen?style=flat-square" alt="Open Source" />
-</p>
-
 ---
 
 We're an independent studio building products across food, money, productivity, and policy. Some commercial, some open — all made carefully, by a small team, on no one's timeline but our own.
@@ -29,15 +23,6 @@ No big promises. Just quietly useful software that works.
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://eatables.octane.team/">
-        <strong>Eatables</strong>
-      </a>
-      <br /><br />
-      A discovery and review platform for finding food worth driving for.
-      <br /><br />
-      <img src="https://img.shields.io/badge/category-food-orange?style=flat-square" />
-    </td>
-    <td width="50%" align="center">
       <a href="https://allocat.octane.team/">
         <strong>Allocat</strong>
       </a>
@@ -47,8 +32,6 @@ No big promises. Just quietly useful software that works.
       <img src="https://img.shields.io/badge/category-money-green?style=flat-square" />
       <img src="https://img.shields.io/badge/open%20source-yes-brightgreen?style=flat-square" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <a href="https://glyphs.octane.team/">
         <strong>Glyphs</strong>
@@ -59,29 +42,8 @@ No big promises. Just quietly useful software that works.
       <img src="https://img.shields.io/badge/category-productivity-blue?style=flat-square" />
       <img src="https://img.shields.io/badge/open%20source-yes-brightgreen?style=flat-square" />
     </td>
-    <td width="50%" align="center">
-      <a href="https://vyuham.octane.team/">
-        <strong>Vyuham</strong>
-      </a>
-      <br /><br />
-      A readiness tool that helps Indian businesses prepare for DPDPA 2023.
-      <br /><br />
-      <img src="https://img.shields.io/badge/category-policy-purple?style=flat-square" />
-    </td>
   </tr>
 </table>
-
----
-
-### Our Manifest
-
-```
-01. Quietly useful beats loudly clever.
-02. Small team, full ownership, no borrowed timelines.
-03. We open the products where trust matters more than the moat.
-```
-
-*Build carefully. Ship quietly. Listen. Improve. That's Octane.*
 
 ---
 
